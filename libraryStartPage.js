@@ -20,9 +20,10 @@ function drawRulesSection() {
         "This game is perfect for a Friday Fun activity where two teams \n" +
         "compete head-to-head to determine who comes out on top. \n\n" +
 
-        "Imagine you are located in a binary star system far away. The planets \n" +
-        "are very different from everything you know. Hover the images to get  \n" +
-        "a feeling for what life is like on the surface on these planets. \n\n" +
+        "Imagine you are located in a binary star system far away. The  \n" +
+        "planets are very different from everything you know. Hover the images  \n" +
+        "to get a feeling for what life is like on the surface on these planets. \n" +
+        "(Note: When the progress bar shows the hover effect is not ready) \n\n" +
 
         "The optimal number of players are between 5 and 15 on each team. Start \n" +
         "with a group call including all players (from both teams). The game \n" +
@@ -32,7 +33,7 @@ function drawRulesSection() {
         "to start the game (each team must choose a Core Commander) then each\n" +
         "team can have a group call to coordinate strategy. Also please use your\n" +
         "real first names. (Use a large HD screen and a Chrome browser.) \n\n" +
-        "Have fun. You will need it! Game by Jens Valdez"
+        "Have fun. You will need it! Game by Jens Valdez\n"; 
 
     text(rules, centerX + 100, centerY + 75);
 }

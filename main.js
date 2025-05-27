@@ -467,7 +467,7 @@ function prepareImages() {
 function preload() {
     partyConnect( 
         "wss://p5js-spaceman-server-29f6636dfb6c.herokuapp.com",
-        "jkv-SpaceStrategoV1",
+        "jkv-SpaceStrategoV1a",
         room
     );
 
